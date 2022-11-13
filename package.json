@@ -1,6 +1,6 @@
 {
-  "name": "node-getopt",
-  "version": "0.3.2",
+  "name": "@abcb-cafe/node-getopt",
+  "version": "0.3.2a",
   "author" : "Jiang Miao <jiangfriend@gmail.com>",
   "description": "featured command line args parser",
   "keywords" : ["getopt", "arg", "parser"],
@@ -10,6 +10,6 @@
     "type" : "git",
     "url" : "https://github.com/jiangmiao/node-getopt"
   },
-  "main" : "./lib",
+  "main" : "index.js",
   "engines" : { "node": ">= 0.6.0" }
 }
